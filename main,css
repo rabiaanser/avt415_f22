@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  color: white;
+	}
+#little-back{
+	color: orange;
+	
+	
+
+}
+#little-linking{
+color: orange;
+}
+#little-Design{
+color: orange;
+}#little-article{
+color: orange;
+}#little-shopping{
+color: orange;
+}#little-idea{
+color: orange;
+}#little-study{
+color: orange;
+}#little-user{
+color: orange;
+}#little-site{
+color: orange;
+}#little-first{
+color: orange;
+}#little-desktop{
+color: orange;
+}#little-tablet{
+color: orange;
+}#little-mob{
+color: orange;
+}#little-tab{
+color: orange;
+}#little-desktop{
+color: orange;
+}#little-Ta{
+color: orange;
+}#little-Mo{
+color: orange;
+}#little-de{
+color: orange;
+}#little-T{
+color: orange;
+}#little-M{
+color: orange;
+}
+
+
+h2 {
+  text-align: centre;
+}
+
+
+
+
+	
+body {
+  background-color: green;
+}
+h2 {
+  text-align: centre;
+}
+
+h2 {
+  text-align: left;
+}
+
+
+h1 {
+  background-color: pink;
+}
+
+
+
+div {
+  background-color: lightblue;
+}
+
+
+
+p {
+  background-color: yellow;
+
+}
+
